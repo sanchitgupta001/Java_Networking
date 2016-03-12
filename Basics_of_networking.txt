@@ -1,0 +1,36 @@
+﻿Java socket programming provides facillity to share data between different computing devices.
+
+Advantages of java netwoking:
+   1. Sharing resources 
+   2. Centralize software management
+
+The most important terminologies used in networking are:
+
+1. IP(Internet Protocol) Address: It is a unique number assigned to a node of a network that uses the Internet Protocol for communication. It  is composed of octets that range from 0 to 255. It serves two principal functions: host or network interface identification and location adderessing. It is a logical address that can be changed. For eg. 192.168.0.1.
+
+2. Protocol: A protocol is a set of rules followed for communication. For example:
+
+     TCP
+     FTP
+     Telnet
+     SMTP
+     POP etc.
+
+       3.  Port Number: The port number is used to uniquely identify different
+            applications.  It acts as a communication endpoint between applications. The 
+            port number is associated with the IP address for communication between 
+            two applications.
+
+       4.  MAC(Media Access Control) Address: It is a unique identifier for NIC
+            (Network Interface Controller). A network node can have multiple NIC but 
+            each other with unique MAC. 
+
+       5.  Connection-Oriented and connection-less protocol:
+            In connection-oriented  protocol, acknowledgement is sent by the reciever. So 
+            it is reliable but slow. TCP is an example of connection-oriented protocol.
+             But, in connection-less protocol, acknowledgement is not sent by the receiver. So 
+            it is not reliable but fast. UDP is an example of connection-less protocol.
+
+       6.  Socket: A socket is an endpont between two way communication. A socket
+            is  identified by an IP address concatenated with a port number.
+
