@@ -1,0 +1,7 @@
+These are the set of instructions which are needed to be followed while executing the client-server java Socket program:
+
+1. First of all, make sure you have java installed in your system.
+
+2. Open two command prompts in Windows or if you are using Linux open two terminals separately.
+
+3. Go to the Compile Server.java and Client.java using 'javac' command  
