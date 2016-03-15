@@ -1,0 +1,11 @@
+These are the set of instructions which are needed to be followed while executing another version of the client-server java Socket program:
+
+1. First of all, make sure you have java installed in your system.
+
+2. Open two command prompts in Windows or if you are using Linux open two terminals separately.
+
+3. Go to the folder which contains Server.java and Client.java files and compile both java files using 'javac' command.
+
+4. Then execute both Java programs using 'java Server2' and 'java Client2' commands but this time simultaneously.
+
+5. Type some message in terminal where Client2.java program is running and hit enter. This message will be then be displayed in terminal where Server2.java is runnning.
