@@ -1,0 +1,14 @@
+Java DatagramSocket and DatagramPacket 
+Java DatagramSocket and DatagramPacket classes are used for connection-less socket programming.
+
+Java DatagramSocket class:
+Java DatagramSocket class represents a connection-less socket for sending and receiving datagram packets.
+A datagram is basically an information but there is no guarantee of its content, arrival or arrival time.
+
+Java DatagramPacket class:
+Java DatagramPacket is a message that can be sent or received. If we send multiple packets, it may arrive in any order. Additionally, packet delivery is not guaranteed.
+
+For more information regarding these classes consult Java documentation, JavaTpoint.com and tutorialspoint.com
+
+
+ 
