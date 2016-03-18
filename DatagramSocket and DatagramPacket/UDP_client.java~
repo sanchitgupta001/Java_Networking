@@ -54,8 +54,8 @@ public class UDP_client {
 				break;
 			}
 			
+			dsocket.close();
 		}
-                dsocket.close();
 	}
 	
 }
